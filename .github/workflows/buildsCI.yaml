@@ -2,9 +2,8 @@ name: Build_CI
 
 on:
   push:
-    branches: ['**']
-  pull_request:
-    branches: ['**']
+    branches: ['Controller']
+
 
 permissions: read-all
      
