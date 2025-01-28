@@ -2,9 +2,9 @@ name: build_lrs_ROS2_package
 
 on:
   push:
-    branches: ['**']
+    branches: ['Disabled']
   pull_request:
-    branches: ['**']
+    branches: ['Disabled']
 
 permissions: read-all
 
